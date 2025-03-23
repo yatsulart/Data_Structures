@@ -1,5 +1,7 @@
 from time import time
 
+print('090301-ПОВа-о24 Яцула Артем Романович')
+
 def test(N):
     if N == 0:
         return "NO"
